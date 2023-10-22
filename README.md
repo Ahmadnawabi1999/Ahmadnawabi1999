@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmadnawabi1999
+- 👋 Hi, I’m @Ahmadnawabi
 - 👀 I’m interested in Software developing
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on ...
